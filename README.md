@@ -43,10 +43,7 @@ I'm **Ahmed Shaban**, a Communication & InformationEngineering major at **Zewail
 </p>
 
 ---
-## 🔥 Vibes  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&width=1000&lines=Realized+Barcelona+losing+ruins+my+mood+more+than+my+own+exam+grades.+%F0%9F%94%B5%F0%9F%94%B4%E2%9A%BD" alt="Typing Animation" />
-</p>
+
 
 
 <p align="center">
