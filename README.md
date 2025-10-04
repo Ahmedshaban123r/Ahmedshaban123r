@@ -1,16 +1,21 @@
 # 👋 Hey there! I'm Ahmed Shaban  
 
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me  
 
-I'm **Ahmed Shaban**, a Communication & Information Engineering major at **Zewail City of Science, Technology, and Innovation** 🎓.  
+I'm **Ahmed Shaban**, a Communication & Electronics Engineering major at **Zewail City of Science, Technology, and Innovation** 🎓.  
 
 - ⚡ Passionate about **Embedded Systems, Digital Communication, and Tech Innovation**.  
 - 🖥️ Skilled in **MATLAB, Python, C, C++, Java**.  
 - 💪 I love **lifting heavy** (both in the gym and in code 🏋️‍♂️).  
 - ♟️ A strategist at heart: **Chess + Engineering = Smart Moves**.  
 - 🚀 Always building, coding, and creating cool projects.  
+- 💙❤️ Huge **FC Barcelona Fan** ⚽🔵🔴  
 - ☕ Powered by **coffee + curiosity**.  
 
 📫 How to reach me: [LinkedIn](#) | [Email](#)  
@@ -32,14 +37,5 @@ I'm **Ahmed Shaban**, a Communication & Information Engineering major at **Zewai
 ## 🎬 Cool Animated Text  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=435&lines=🏋️‍♂️+Gym+Lover;♟️+Chess+Thinker;💻+Code+Creator;⚡+Embedded+Systems+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=435&lines=🏋️‍♂️+Gym+Lover;♟️+Chess+Thinker;💻+Code+Creator;⚡+Embedded+Systems+Enthusiast;🔵🔴+Barcelona+Forever" alt="Typing Animation" />
 </p>
-
----
-
-## 🔥 A Bit of My Vibe  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
-</p>
-
