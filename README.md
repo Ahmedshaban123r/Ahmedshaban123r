@@ -43,4 +43,8 @@ I'm **Ahmed Shaban**, a Communication & InformationEngineering major at **Zewail
 </p>
 
 ---
+## 🔥 Vibes  
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJrcTJscXh5dzhjMzRqc3ZzMmZrM2Jjcncyd292b2k0MDJ6ZW41cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SxMTjAhrpBpE5E4BzB/giphy.gif" width="400" alt="Barcelona GIF"/>
+</p>
