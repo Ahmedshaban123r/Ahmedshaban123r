@@ -48,3 +48,6 @@ I'm **Ahmed Shaban**, a Communication & InformationEngineering major at **Zewail
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJrcTJscXh5dzhjMzRqc3ZzMmZrM2Jjcncyd292b2k0MDJ6ZW41cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SxMTjAhrpBpE5E4BzB/giphy.gif" width="400" alt="Barcelona GIF"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&width=800&lines=Realized+Barcelona+losing+ruins+my+mood+more+than+my+own+exam+grades.+🔵🔴⚽" alt="Typing Animation" />
+</p>
