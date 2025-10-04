@@ -44,9 +44,7 @@ I'm **Ahmed Shaban**, a Communication & InformationEngineering major at **Zewail
 
 ---
 ## 🔥 Vibes  
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&width=700&lines=Realized+Barcelona+losing+ruins+my+mood+more+than+my+own+exam+grades.+%F0%9F%94%B5%F0%9F%94%B4%E2%9A%BD" alt="Typing Animation" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmMngxM2U0dnA2MWliY2M3dGJzZ2MzaGJqaGlxdzdnZmF0NHEwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lxxOGaDRk4f7R5TkBd/giphy.gif" width="200" alt="Barcelona gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&width=1000&lines=Realized+Barcelona+losing+ruins+my+mood+more+than+my+own+exam+grades.+%F0%9F%94%B5%F0%9F%94%B4%E2%9A%BD" alt="Typing Animation" />
 </p>
 
