@@ -15,7 +15,7 @@ I'm **Ahmed Shaban**, a Communication & Information Engineering major at **Zewai
 - 💪 I love **lifting heavy** (both in the gym and in code 🏋️‍♂️).  
 - ♟️ A strategist at heart: **Chess + Engineering = Smart Moves**.  
 - 🚀 Always building, coding, and creating cool projects.  
-- 💙❤️ Huge **FC Barcelona Fan** ⚽🔵🔴 <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" width="25" height="25" alt="Barcelona logo"/>  
+- 💙❤️ Huge **FC Barcelona Fan** ⚽ <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" width="25" height="25" alt="Barcelona logo"/>  
 - ☕ Powered by **coffee + curiosity**.  
 
 📫 How to reach me: [LinkedIn](#) | [Email](#)  
