@@ -1,10 +1,9 @@
 # 👋 Hey there! I'm Ahmed Shaban  
 
 ---
-
 ## 🧑‍💻 About Me  
 <p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdhMmlmNXo4dG81bHYyYzc5MmdrYXk4YjdjeXZxNzc3dmVreHIxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200" alt="Barcelona gif"/>
 </p>
 
 I'm **Ahmed Shaban**, a Communication & Information Engineering major at **Zewail City of Science, Technology, and Innovation** 🎓.  
