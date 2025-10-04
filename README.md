@@ -1,12 +1,11 @@
 # 👋 Hey there! I'm Ahmed Shaban  
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me  
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+</p>
 
 I'm **Ahmed Shaban**, a Communication & Electronics Engineering major at **Zewail City of Science, Technology, and Innovation** 🎓.  
 
@@ -34,8 +33,8 @@ I'm **Ahmed Shaban**, a Communication & Electronics Engineering major at **Zewai
 
 ---
 
-## 🎬 Cool Animated Text  
+## ✨ Quote of the Day  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=435&lines=🏋️‍♂️+Gym+Lover;♟️+Chess+Thinker;💻+Code+Creator;⚡+Embedded+Systems+Enthusiast;🔵🔴+Barcelona+Forever" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=+%22Strength+in+the+gym;Strategy+on+the+board;Creativity+in+code.%22;—Ahmed+Shaban" alt="Cool Quote Animation" />
 </p>
