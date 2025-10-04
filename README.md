@@ -51,3 +51,6 @@ I'm **Ahmed Shaban**, a Communication & InformationEngineering major at **Zewail
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&width=800&lines=Realized+Barcelona+losing+ruins+my+mood+more+than+my+own+exam+grades.+🔵🔴⚽" alt="Typing Animation" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=800&lines=Realized+Barcelona+losing+ruins+my+mood+more+than+my+own+exam+grades.+🔵🔴⚽;I+don%27t+need+Google,+I+need+Stack+Overflow.;Sleep+mode+on+my+laptop+works+better+than+on+me.;RAM+is+not+where+sheep+live.+🐑+💾" alt="Typing Animation" />
+</p>
