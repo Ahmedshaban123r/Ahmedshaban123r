@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me  
 
-I'm **Ahmed Shaban**, a Communication & InformationEngineering major at **Zewail City of Science, Technology, and Innovation** 🎓.  
+I'm **Ahmed Shaban**, a Communication & Information Engineering major at **Zewail City of Science, Technology, and Innovation** 🎓.  
 
 - ⚡ Passionate about **Embedded Systems, Digital Communication, and Tech Innovation**.  
 - 🔧 Specialist in **Embedded Systems on ARM Cortex-M Microcontrollers (STM32 & beyond)**.  
