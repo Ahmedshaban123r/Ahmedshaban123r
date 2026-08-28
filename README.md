@@ -108,15 +108,6 @@ I'm **Ahmed Shaban**, a Communication & Information Engineering major at **Zewai
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedshaban123r&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshaban123r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
----
-
 ## 🔥 Vibes
 
 <p align="center">
